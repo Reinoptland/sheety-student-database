@@ -11,4 +11,4 @@ async function getStudents() {
   }
 }
 
-getStudents();
+// getStudents();

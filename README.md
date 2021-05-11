@@ -26,4 +26,18 @@
 
 2. As a teacher I want to be able to add a student, so my list can stay up to date
 
+- [ ] HTML
+  - [ ] input
+  - [ ] button
+  - [ ] label
+- [ ] Interactie programmeren
+  - [ ] button selecteren
+  - [ ] event listener, addEventListener (click op de button)
+  - [ ] event handler (functie)
+- [ ] Gegevens "POSTEN" naar de api
+  - [ ] input selecteren
+  - [ ] "value" van het inputveld uitlezen
+  - [ ] student object maken
+  - [ ] request maken naar de api (POST) -> met ons nieuwe student object
+
 3. As a teacher I want to be able to remove a students, so I can deal wit abusive students
