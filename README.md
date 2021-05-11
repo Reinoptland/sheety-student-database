@@ -30,10 +30,10 @@
   - [x] input
   - [x] button
   - [x] label
-- [ ] Interactie programmeren
-  - [ ] button selecteren
-  - [ ] event listener, addEventListener (click op de button)
-  - [ ] event handler (functie)
+- [x] Interactie programmeren
+  - [x] button selecteren
+  - [x] event listener, addEventListener (click op de button)
+  - [x] event handler (functie)
 - [ ] Gegevens "POSTEN" naar de api
   - [ ] input selecteren
   - [ ] "value" van het inputveld uitlezen

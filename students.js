@@ -11,4 +11,10 @@ async function getStudents() {
   }
 }
 
+const addStudentButton = document.getElementById("addStudentButton");
+
+addStudentButton.addEventListener("click", () => {
+  console.log("ADDDD!!");
+});
+
 // getStudents();
