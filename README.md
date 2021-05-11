@@ -42,3 +42,14 @@
 - [x] Nieuwe student toevoegen aan de pagina (zodat geen refresh nodig is)
 
 3. As a teacher I want to be able to remove a students, so I can deal wit abusive students
+
+- [ ] HTML
+  - [ ] voor elke list item, voeg een delete knop toe
+- [ ] Interactie
+  - [ ] Voeg een event listener toe aan het knopje (click)
+  - [ ] voeg een event handler toe
+- [ ] Verwijder de student uit de api
+  - [ ] id van de student vinden
+  - [ ] axios.delete
+- [ ] Verwijder de student van de pagina
+  - [ ] .remove()
