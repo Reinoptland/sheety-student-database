@@ -12,11 +12,12 @@
 
 - [x] divje maken
 - [x] ul
-- [ ] Request maken om de lijst met namen op te vragen (uit de api)
+- [x] Request maken om de lijst met namen op te vragen (uit de api)
   - [x] import axios
-  - [ ] async functie maken
-  - [ ] axios.get(url)
-  - [ ] await ervoor zetten
+  - [x] async functie maken
+  - [x] functie aanroepen
+  - [x] axios.get(url)
+  - [x] await ervoor zetten
 - [ ] lijst met studenten weergeven
   - loopen
   - document.createElement
