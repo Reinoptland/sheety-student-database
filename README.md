@@ -1,5 +1,7 @@
 # Student database
 
+Git history: [https://github.githistory.xyz/Reinoptland/sheety-student-database/blob/master/students.js](https://github.githistory.xyz/Reinoptland/sheety-student-database/blob/master/students.js)
+
 0. Setup
 
 - [x] HTML bestand
