@@ -2,11 +2,11 @@
 
 0. Setup
 
-- [ ] HTML bestand
-- [ ] CSS bestand
-- [ ] JavaScript bestand
-- [ ] CSS & JavaScript linken
-- [ ] Axios nodig (importeren??)
+- [x] HTML bestand
+- [x] CSS bestand
+- [x] JavaScript bestand
+- [x] CSS & JavaScript linken aan HTML
+- [x] Axios nodig (importeren??)
 
 1. As a teacher I want to see a list of my students, so I can remember who is in my class
 
