@@ -21,6 +21,19 @@ addStudentButton.addEventListener("click", () => {
 
   const newName = nameInput.value;
   console.log("WAT HEBBEN WE INGETYPT:", newName);
+
+  const body = {
+    student: {
+      name: newName,
+    },
+  };
+
+  const response = axios.post(
+    "https://api.sheety.co/4ca2f82ca37873cd0884999556d29c6c/signupForm/students",
+    body
+  );
+
+  console.log("WHAT DID WE GET?", response);
 });
 
 // getStudents();

@@ -34,10 +34,10 @@
   - [x] button selecteren
   - [x] event listener, addEventListener (click op de button)
   - [x] event handler (functie)
-- [ ] Gegevens "POSTEN" naar de api
+- [x] Gegevens "POSTEN" naar de api
   - [x] input selecteren
   - [x] "value" van het inputveld uitlezen
-  - [ ] student object maken
-  - [ ] request maken naar de api (POST) -> met ons nieuwe student object
+  - [x] student object maken
+  - [x] request maken naar de api (POST) -> met ons nieuwe student object
 
 3. As a teacher I want to be able to remove a students, so I can deal wit abusive students
