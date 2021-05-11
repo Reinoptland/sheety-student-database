@@ -18,11 +18,11 @@
   - [x] functie aanroepen
   - [x] axios.get(url)
   - [x] await ervoor zetten
-- [ ] lijst met studenten weergeven
-  - loopen
-  - document.createElement
-  - innerText toevoegen (de naam)
-  - appendChild
+- [x] lijst met studenten weergeven
+  - [x] loopen
+  - [x] document.createElement
+  - [x] innerText toevoegen (de naam)
+  - [x] appendChild
 
 2. As a teacher I want to be able to add a student, so my list can stay up to date
 
