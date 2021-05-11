@@ -48,8 +48,8 @@
 - [x] Interactie
   - [x] Voeg een event listener toe aan het knopje (click)
   - [x] voeg een event handler toe
-- [ ] Verwijder de student uit de api
-  - [ ] id van de student vinden
-  - [ ] axios.delete
+- [x] Verwijder de student uit de api
+  - [x] id van de student vinden
+  - [x] axios.delete
 - [ ] Verwijder de student van de pagina
   - [ ] .remove()

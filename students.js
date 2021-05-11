@@ -7,7 +7,10 @@ async function getStudents() {
     const listItem = document.createElement("li");
     const button = document.createElement("button");
     button.addEventListener("click", () => {
-      console.log("DELETE THIS STUDENT");
+      console.log("DELETE THIS STUDENT", student.id);
+      axios.delete(
+        `https://api.sheety.co/4ca2f82ca37873cd0884999556d29c6c/signupForm/students/${student.id}`
+      );
     });
     button.innerText = "❌";
     listItem.innerText = student.name;
@@ -37,7 +40,7 @@ addStudentButton.addEventListener("click", () => {
   const listItem = document.createElement("li");
   const button = document.createElement("button");
   button.addEventListener("click", () => {
-    console.log("DELETE THIS STUDENT");
+    console.log("DELETE THIS STUDENT", student.id);
   });
   button.innerText = "❌";
   listItem.innerText = newName;
