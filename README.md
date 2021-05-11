@@ -1,5 +1,7 @@
 # Student database
 
+Made with: https://sheety.co/ 
+
 Git history: [https://github.githistory.xyz/Reinoptland/sheety-student-database/blob/master/students.js](https://github.githistory.xyz/Reinoptland/sheety-student-database/blob/master/students.js)
 
 0. Setup
