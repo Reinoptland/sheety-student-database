@@ -11,6 +11,8 @@ async function getStudents() {
       axios.delete(
         `https://api.sheety.co/4ca2f82ca37873cd0884999556d29c6c/signupForm/students/${student.id}`
       );
+
+      listItem.remove();
     });
     button.innerText = "❌";
     listItem.innerText = student.name;
