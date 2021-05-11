@@ -26,10 +26,10 @@
 
 2. As a teacher I want to be able to add a student, so my list can stay up to date
 
-- [ ] HTML
-  - [ ] input
-  - [ ] button
-  - [ ] label
+- [x] HTML
+  - [x] input
+  - [x] button
+  - [x] label
 - [ ] Interactie programmeren
   - [ ] button selecteren
   - [ ] event listener, addEventListener (click op de button)
