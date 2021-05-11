@@ -35,8 +35,8 @@
   - [x] event listener, addEventListener (click op de button)
   - [x] event handler (functie)
 - [ ] Gegevens "POSTEN" naar de api
-  - [ ] input selecteren
-  - [ ] "value" van het inputveld uitlezen
+  - [x] input selecteren
+  - [x] "value" van het inputveld uitlezen
   - [ ] student object maken
   - [ ] request maken naar de api (POST) -> met ons nieuwe student object
 
