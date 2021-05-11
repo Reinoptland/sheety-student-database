@@ -39,5 +39,6 @@
   - [x] "value" van het inputveld uitlezen
   - [x] student object maken
   - [x] request maken naar de api (POST) -> met ons nieuwe student object
+- [x] Nieuwe student toevoegen aan de pagina (zodat geen refresh nodig is)
 
 3. As a teacher I want to be able to remove a students, so I can deal wit abusive students

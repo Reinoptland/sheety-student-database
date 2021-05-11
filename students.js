@@ -34,6 +34,11 @@ addStudentButton.addEventListener("click", () => {
   );
 
   console.log("WHAT DID WE GET?", response);
+
+  const listItem = document.createElement("li");
+  listItem.innerText = newName;
+  const list = document.getElementById("studentList");
+  list.appendChild(listItem);
 });
 
-// getStudents();
+getStudents();
