@@ -6,6 +6,9 @@ async function getStudents() {
   for (const student of response.data.students) {
     const listItem = document.createElement("li");
     const button = document.createElement("button");
+    button.addEventListener("click", () => {
+      console.log("DELETE THIS STUDENT");
+    });
     button.innerText = "❌";
     listItem.innerText = student.name;
     listItem.appendChild(button);
@@ -33,6 +36,9 @@ addStudentButton.addEventListener("click", () => {
 
   const listItem = document.createElement("li");
   const button = document.createElement("button");
+  button.addEventListener("click", () => {
+    console.log("DELETE THIS STUDENT");
+  });
   button.innerText = "❌";
   listItem.innerText = newName;
   listItem.appendChild(button);

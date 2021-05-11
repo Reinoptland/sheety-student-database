@@ -43,11 +43,11 @@
 
 3. As a teacher I want to be able to remove a students, so I can deal wit abusive students
 
-- [ ] HTML
-  - [ ] voor elke list item, voeg een delete knop toe
-- [ ] Interactie
-  - [ ] Voeg een event listener toe aan het knopje (click)
-  - [ ] voeg een event handler toe
+- [x] HTML
+  - [x] voor elke list item, voeg een delete knop toe
+- [x] Interactie
+  - [x] Voeg een event listener toe aan het knopje (click)
+  - [x] voeg een event handler toe
 - [ ] Verwijder de student uit de api
   - [ ] id van de student vinden
   - [ ] axios.delete
