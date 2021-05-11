@@ -4,6 +4,17 @@ async function getStudents() {
   );
 
   console.log(response.data.students);
+
+  for (const student of response.data.students) {
+    console.log(student);
+    const listItem = document.createElement("li");
+    listItem.innerText = student.name;
+    console.log("RESULT SO FAR:", listItem);
+
+    const list = document.getElementById("studentList");
+
+    list.appendChild(listItem);
+  }
 }
 
 getStudents();
